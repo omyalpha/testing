@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-pdf-generator": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.rovingcare.iosapp"
+    }
+  },
+  "dependent_plugins": {}
+}
